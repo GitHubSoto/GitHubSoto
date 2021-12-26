@@ -1,6 +1,6 @@
 Ivan Soto here (Contact: ivan.soto@live.com Washington, DC metro area, 2021-12-26 Sunday) ... I'm currently
-interested programming that supports Web Pages, particularly JavaScript, both in the browser and on the
-server(s). My long time interest in "the three biggies," Java, C#, C++ continues, along with the
+interested in programming that supports Web Pages, particularly JavaScript, both in the browsers and in the
+server(s). My long-time interest in "the three biggies," Java, C#, C++ continues, along with the
 general-purpose supporting cast of database languages, both relational and object-centered.
 
 Although I'm nominally (meaning: in name only) retired, I still like to maintain engagement within the
